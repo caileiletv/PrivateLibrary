@@ -29,4 +29,7 @@
 
 @implementation PrivateLibrary
 
+- (void)printHello {
+    NSLog(@"Hello Cocoapods");
+}
 @end

@@ -29,4 +29,5 @@
 
 @interface PrivateLibrary : NSObject
 
+- (void)printHello;
 @end
